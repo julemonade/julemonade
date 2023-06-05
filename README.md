@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Iulia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> QA Engineer from Moldova <img src="http://www.abflags.com/_flags/flags-of-the-world/Moldova%20flag/Moldova%20flag-XXL-anim.gif" width="55" height="35"/></h3>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+<h3 align="center"> QA Engineer from Moldova </h3>
+<!---<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />--->
 
 ### 🎭 About me:
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="250px"/>
+
 
 **Hello!**
 <p> 📌I possess a background in Finance
