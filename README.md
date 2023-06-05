@@ -4,19 +4,18 @@
 <!---<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />--->
 
 ### 🎭 About me:
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="300px"/>
-
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="250px"/>
 
 **Hello!**
 <p> 📌 I possess a background in Finance
 <p> 👩‍💻 I'm seeking a full-time QA Engineer position
 <p> 🌱 I’m currently learning Javascript
 <p> 📚 I love to learn languages and dive into new cultures
-<p> 🎋 <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link">Here is my CV</a>
-<p> 📩 Feel free to contact me:<a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
+<p> 📩 Feel free to contact me:<a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
 
 ---
-
+### 🎋 Here you can find my CV: <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link"><img src="https://www.shareicon.net/data/512x512/2016/07/06/105207_document_512x512.png" width="4%"/>
+---
 ### 💻 Technikal skills:
 <div id="badges">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
