@@ -4,15 +4,16 @@
 <!---<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />--->
 
 ### 🎭 About me:
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="250px"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="300px"/>
 
 
 **Hello!**
-<p> 📌I possess a background in Finance
+<p> 📌 I possess a background in Finance
 <p> 👩‍💻 I'm seeking a full-time QA Engineer position
 <p> 🌱 I’m currently learning Javascript
 <p> 📚 I love to learn languages and dive into new cultures
-<p> 📩 Feel free to contact me:<a href="https://www.linkedin.com/in/iulianikolaeva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
+<p> 🎋 <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link">Here is my CV</a>
+<p> 📩 Feel free to contact me:<a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
 
 ---
 
