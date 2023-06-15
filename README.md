@@ -14,7 +14,7 @@
 <p> 📩 Feel free to contact me:<a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
 
 ---
-### 🎋 Here you can find my CV: <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link"><img src="https://www.shareicon.net/data/512x512/2016/07/06/105207_document_512x512.png" width="4%"/>
+### 🎋 You can find my CV <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link">_here_
 ---
 ### 💻 Technikal skills:
 <div id="badges">
@@ -39,7 +39,7 @@
 ---
 
 ### 🧩 Education:
-- [Artsiom Rusau Functional Testing course](https://artsiomrusau.com/qa-from-scratch) 03/2023 - 05/2023
+- [Artsiom Rusau Functional Testing course](https://artsiomrusau.com/qa-from-scratch) 03/2023 - 05/2023  <a href="https://drive.google.com/file/d/1VypOVPpXy5Km4E-Iqx4-ejj2pYeC-5jr/view?usp=drive_link">_Certificate_
 - [Vadim Ksendzov Software Testing course](https://ksendzov.com/) 11/2022 - present
   
   <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
