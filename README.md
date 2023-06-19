@@ -14,7 +14,7 @@
 <p> 📩 Feel free to contact me:  <a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:julemonadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://t.me/julemonade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 ---
-### 🎋 You can find my CV <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link">_here_
+### 🎋 You can find my CV <a href="https://drive.google.com/file/d/1ZqRs8peUoVBMjqg7atiJoIKN7DNTB30N/view?usp=drive_link">_here_
 ---
 ### 💻 Technikal skills:
 <div id="badges">
