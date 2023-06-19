@@ -11,7 +11,7 @@
 <p> 👩‍💻 I'm seeking a full-time QA Engineer position
 <p> 🌱 I’m currently learning Javascript
 <p> 📚 I love to learn languages and dive into new cultures
-<p> 📩 Feel free to contact me:<a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/><a href="mailto:julemonadee@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/><a href="https://t.me/julemonade"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="35" height="35"/>
+<p> 📩 Feel free to contact me:  <a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:julemonadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://t.me/julemonade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 ---
 ### 🎋 You can find my CV <a href="https://drive.google.com/file/d/170A8MGrMJjFRrlNUNjTXn-L3dcu-SKGm/view?usp=drive_link">_here_
@@ -33,7 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="javascript" alt="javascript" width="40" height="40"/>
-<img src="https://248006.selcdn.ru/main/upload/setka_images/10162818102019_7b64da46b2dc4329c15be64aeef9e636261e678c.png" alt="VSC" width="40" height="40"/>
 </div>
 
 ---
