@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center"> QA Engineer from Moldova </h3>
 <!---<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />--->
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="right" width="300px"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="right" width="285px"/>
 
 ### 🎭 About me: 
 
