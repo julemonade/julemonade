@@ -1,19 +1,17 @@
-<h1 align="center">Hi there, I'm Iulia</a> 
+<h2 align="center">Hi there, I'm Iulia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> QA Engineer from Moldova </h3>
+<h4 align="center"> QA Engineer from Moldova </h3>
 <!---<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />--->
 
-### 🎭 About me:
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="left" width="250px"/>
-
-**Hello!**
+### 🎭 About me: 
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913543371320728145/99C723233636B4390B13DD2C2551D8627AA3B322/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" align="right" width="250px"/>
 <p> 📌 I possess a background in Finance
 <p> 👩‍💻 I'm seeking a full-time QA Engineer position
 <p> 🌱 I’m currently learning Javascript
 <p> 📚 I love to learn languages and dive into new cultures
-<p> 📩 Feel free to contact me:  <a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:julemonadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://t.me/julemonade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
----
+### 📩 Feel free to contact me:  <a href="https://www.linkedin.com/in/iulianicolaeva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:julemonadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://t.me/julemonade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
 ### 🎋 You can find my CV <a href="https://drive.google.com/file/d/1ZqRs8peUoVBMjqg7atiJoIKN7DNTB30N/view?usp=drive_link">_here_
 ---
 ### 💻 Technikal skills:
